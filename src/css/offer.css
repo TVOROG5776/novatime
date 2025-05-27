@@ -1,12 +1,4 @@
-.static-page > .static-top {
-	background-image: url("../../../img/top-bg-source.png");
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	padding-top: 114px;
-	padding-bottom: 75px;
-	display: grid;
-}
+
 
 .static-page > .static-top .top-grid {
 	display: grid;
