@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('../fonts/GraphikLCG-Regular/GraphikLCG-Regular.eot');
+    src: local('Graphik LCG Regular'), local('GraphikLCG-Regular'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Regular.eot') format('embedded-opentype'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Regular.woff2') format('woff2'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Regular.woff') format('woff'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('../fonts/GraphikLCG-Regular/GraphikLCG-Medium.eot');
+    src: local('Graphik LCG Medium'), local('GraphikLCG-Medium'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Medium.eot') format('embedded-opentype'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Medium.woff2') format('woff2'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Medium.woff') format('woff'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('../fonts/GraphikLCG-Regular/GraphikLCG-Semibold.eot');
+    src: local('Graphik LCG Semibold'), local('GraphikLCG-Semibold'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Semibold.eot') format('embedded-opentype'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Semibold.woff2') format('woff2'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Semibold.woff') format('woff'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: url('../fonts/GraphikLCG-Regular/GraphikLCG-Bold.eot');
+    src: local('Graphik LCG Bold'), local('GraphikLCG-Bold'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Bold.eot') format('embedded-opentype'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Bold.woff2') format('woff2'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Bold.woff') format('woff'),
+    url('../fonts/GraphikLCG-Regular/GraphikLCG-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

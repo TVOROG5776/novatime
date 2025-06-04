@@ -1,0 +1,33 @@
+@media (max-width: 991px) {
+  .static-page > .static-top {
+    padding-top: 0;
+  }
+
+  .static-page > .static-top .top-grid > .top-grid-block > .block-text {
+    min-height: 150px;
+  }
+
+  .static-page > .static-top .top-grid > .top-grid-block > .block-button > a {
+    padding: 15px;
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+@media (max-width: 767px) {
+  .static-page > .static-top .top-grid {
+    grid-template-columns: 100%;
+    grid-gap: 45px;
+  }
+
+  .static-page > .static-top .top-grid > .top-grid-block > .block-text {
+    min-height: 0;
+  }
+
+  .static-page > .static-top {
+    padding-bottom: 40px;
+  }
+}

@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Korolev Heavy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Heavy'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Heavy.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Thin'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Thin.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Light Italic'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Light Italic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Light'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Light.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Medium Italic'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Medium Italic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Medium'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Medium.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Bold'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Bold Italic'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Bold Italic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Korolev Heavy Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Korolev Heavy Italic'), url('../fonts/korolev-heavy-cufonfonts-webfont/Korolev Heavy Italic.woff') format('woff');
+}
